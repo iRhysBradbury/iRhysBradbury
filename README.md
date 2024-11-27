@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Key Technical Competencies](https://skillicons.dev/icons?i=scala,java,elasticsearch,mongo,docker,kubernetes)
+![Key Technical Competencies](https://skillicons.dev/icons?i=scala,java,elasticsearch,mongo,docker,kubernetes)
