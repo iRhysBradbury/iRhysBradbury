@@ -1,9 +1,3 @@
-```
-╔══════════════════════════════════════╗
-║  iRhysBradbury  //  Senior SWE      ║
-╚══════════════════════════════════════╝
-```
-
 ```bash
 $ whoami
 iRhysBradbury — Senior Software Engineer
